@@ -66,28 +66,31 @@ What makes it architecturally interesting is that it ships **two fully independe
 
 ### Mobile (.NET MAUI)
 
-**Client Overview**
-![Client Overview Mobile](https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-clients-overview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-clients-overview.png" width="180"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-client-history.png" width="180"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-daily-sales.png" width="180"/>
+</p>
+<p align="center">
+  <sub>Client Overview</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Client History & Management</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Daily Sales Module</sub>
+</p>
 
----
-
-**Client History & Management**
-![Client History Mobile](https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-client-history.png)
-
----
-
-**Daily Sales Module**
-![Daily Sales Mobile](https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-daily-sales.png)
-
----
-
-**Fixed Expenses**
-![Fixed Expenses Mobile](https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-fixed-expenses.png)
-
----
-
-**Monthly Summary** — supports flexible week ranges; a full monthly report can be generated regardless of how many weeks were recorded
-![Monthly Summary Mobile](https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-monthly-summary.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-fixed-expenses.png" width="180"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MintKurisu/ShopLedger-Showcase/main/assets/mobile/mobile-monthly-summary.png" width="180"/>
+</p>
+<p align="center">
+  <sub>Fixed Expenses</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Monthly Summary — flexible week ranges</sub>
+</p>
 
 ---
 
